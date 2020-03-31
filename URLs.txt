@@ -1,0 +1,9 @@
+GET /api/employee
+
+POST /api/employee
+
+GET /api/employee/{id}
+
+PUT /api/employee
+
+DELETE /api/employee/{id}
